@@ -1,3 +1,4 @@
+# LB rank 835 with score .665
 import pandas as pd 
 import numpy as np 
 import xgboost as xgb
