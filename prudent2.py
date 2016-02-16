@@ -1,4 +1,4 @@
-#This got me to 623 LB rank, with score 0.66927
+#This got me to  score 0.66927
 
 import pandas as pd 
 import numpy as np 
